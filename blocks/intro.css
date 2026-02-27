@@ -15,7 +15,7 @@
   font-weight: 900;
   font-size: 3.375rem;
   line-height: 58px;
-  letter-spacing: 0%;
+  letter-spacing: 0;
   margin: 0 0 39.98px;
 }
 
@@ -26,7 +26,7 @@
   font-weight: 400;
   font-size: 1.5rem;
   line-height: 34px;
-  letter-spacing: 0%;
+  letter-spacing: 0;
 }
 
 .intro__text-author {
@@ -38,7 +38,7 @@
   font-weight: 400;
   font-size: 1.5rem;
   line-height: 34px;
-  letter-spacing: 0%;
+  letter-spacing: 0;
   margin-bottom: 31.99px;
 }
 
@@ -49,7 +49,7 @@
   font-weight: 400;
   font-size: 1rem;
   line-height: 26.08px;
-  letter-spacing: 0%;
+  letter-spacing: 0;
 }
 
 @media screen and (max-width: 768px) {
