@@ -6,7 +6,7 @@
   margin: 0;
 }
 
-.gallery__item-image {
+.gallery__item_image {
   width: 100%;
   height: 100%;
   object-fit: cover;
