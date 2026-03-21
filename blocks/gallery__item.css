@@ -6,11 +6,11 @@
   margin: 0;
 }
 
-/* .gallery__image {
+.gallery__image {
   width: 100%;
   height: 100%;
   object-fit: cover;
-} */
+}
 
 @media screen and (max-width: 768px) {
   .gallery__item {
