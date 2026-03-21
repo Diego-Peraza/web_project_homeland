@@ -21,7 +21,7 @@
   justify-content: end;
 }
 
-.place__artista__title {
+.place__artista-title {
   font-weight: 400;
   font-size: 12px;
   line-height: 100%;
@@ -30,7 +30,7 @@
   color: #aaaaaa;
 }
 
-.place__artista__text {
+.place__artista-text {
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
@@ -134,7 +134,7 @@
     margin-left: 16px;
   }
 
-  .place__artista__title {
+  .place__artista-title {
     margin-bottom: 8px;
   }
 
